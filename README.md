@@ -14,3 +14,4 @@ SSIS (SQL Server Integration Services): SSIS is employed for extracting, transfo
 Data Warehouse (DW): The Data Warehouse is implemented using SQL Server to provide a unified repository of clean and structured data. The Data Warehouse is designed to support efficient querying and reporting, often utilizing dimensional modeling techniques such as star or snowflake schemas.
 
 Power BI: Power BI is utilized for creating interactive dashboards and visualizations based on the data stored in the Data Warehouse. Power BI offers a user-friendly interface and robust reporting capabilities, enabling stakeholders to gain valuable insights from the data.
+![Screenshot ](https://github.com/MAHMOUDMAMDOH8/SuperStore-Sales-Dataset/assets/111503676/dcd0c805-24ff-40d4-a094-ba44ed3edf01)
